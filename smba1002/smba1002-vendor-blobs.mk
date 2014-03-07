@@ -112,4 +112,4 @@ PRODUCT_COPY_FILES += \
  $(LOCAL_PATH)/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
  $(LOCAL_PATH)/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
  $(LOCAL_PATH)/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
- $(LOCAL_PATH)/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra_v0.so
+ $(LOCAL_PATH)/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so
